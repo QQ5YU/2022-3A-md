@@ -17,3 +17,10 @@ big block
 :smile:
 
 ![hanger](hanger.png "hanger")
+
+- [ ] one
+- [x] two
+
+```python
+x = 1
+print x
