@@ -15,3 +15,5 @@ big block
 ```
 
 :smile:
+
+![pic](pin.jpg "pic")
