@@ -16,4 +16,4 @@ big block
 
 :smile:
 
-![hanger](hanger.jpg "hanger")
+![hanger](hanger.png "hanger")
