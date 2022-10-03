@@ -3,7 +3,7 @@
 
 ---
 # 甘特圖
-![Gantt 圖](Gantt .jpg)
+![Gantt 圖](Gantt.jpg)
 ---
 # 關鍵路徑
 ---
