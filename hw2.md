@@ -1,6 +1,6 @@
 # PERT/CPM 圖
 ![PERT 圖](pert-img.png)
-
+#### 關鍵路徑: 1>2>4>6>9>11
 ---
 # 甘特圖
 ```mermaid
