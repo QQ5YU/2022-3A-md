@@ -3,7 +3,26 @@
 
 ---
 # 甘特圖
-[![](https://mermaid.ink/img/pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOmdIloOWwzqmoLQX7PISQ_94TUgntIdDpffDQe-CYPKPFK0URF0FHgswMR_jIEAyBristhfIk_J7WhQTgotOeTu0wFG7jUUKKcC53AY8gtH3DayyZBvrOHNrO6GngrfNVGpN88foyWJpE32QAssX_janyAn5mT4iZrDG_EabPbtNXN_0PAQv9wWODC-u3gtcqHlnqUHULO7S6ep5on8Whi0-V0i7pfI8jWll3bnC_5V5qUWgnmjd-_gDIHWWW)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOmdIloOWwzqmoLQX7PISQ_94TUgntIdDpffDQe-CYPKPFK0URF0FHgswMR_jIEAyBristhfIk_J7WhQTgotOeTu0wFG7jUUKKcC53AY8gtH3DayyZBvrOHNrO6GngrfNVGpN88foyWJpE32QAssX_janyAn5mT4iZrDG_EabPbtNXN_0PAQv9wWODC-u3gtcqHlnqUHULO7S6ep5on8Whi0-V0i7pfI8jWll3bnC_5V5qUWgnmjd-_gDIHWWW)
+```mermaid
+
+%%{init: {'theme':'forest'}}%%
+gantt
+    title 需時(天)
+    dateFormat  MM-DD
+    section 任務
+    研擬計畫 : a1, 01-01, 1d
+    任務分配 : a2, 01-02, 4d
+    取得硬體 : a3, 01-02, 17d
+    程式開發 : a4, 01-06, 70d
+    安裝硬體 : a5, 01-19, 10d
+    程式測試 : a6, 03-17, 30d
+    撰寫使用手冊 : a7, 02-23, 25d
+    轉換檔案 : a8, 02-18, 20d
+    系統測試 : a9, 04-14, 25d
+    使用者訓練 : a10, 03-15, 20d
+    使用者測試 : a11, 05-09, 25d
+
+```
 ---
 # 關鍵路徑
 ---
