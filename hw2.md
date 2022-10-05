@@ -7,7 +7,7 @@
 
 %%{init: {'theme':'forest'}}%%
 gantt
-    title 需時(天)
+    title 系統分析流程
     dateFormat  MM-DD
     section 任務
     研擬計畫 : a1, 01-01, 1d
