@@ -3,17 +3,7 @@
 
 ---
 # 甘特圖
-gantt
-dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
-
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
-
+[![](https://mermaid.ink/img/pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOmdIloOWwzqmoLQX7PISQ_94TUgntIdDpffDQe-CYPKPFK0URF0FHgswMR_jIEAyBristhfIk_J7WhQTgotOeTu0wFG7jUUKKcC53AY8gtH3DayyZBvrOHNrO6GngrfNVGpN88foyWJpE32QAssX_janyAn5mT4iZrDG_EabPbtNXN_0PAQv9wWODC-u3gtcqHlnqUHULO7S6ep5on8Whi0-V0i7pfI8jWll3bnC_5V5qUWgnmjd-_gDIHWWW)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOmdIloOWwzqmoLQX7PISQ_94TUgntIdDpffDQe-CYPKPFK0URF0FHgswMR_jIEAyBristhfIk_J7WhQTgotOeTu0wFG7jUUKKcC53AY8gtH3DayyZBvrOHNrO6GngrfNVGpN88foyWJpE32QAssX_janyAn5mT4iZrDG_EabPbtNXN_0PAQv9wWODC-u3gtcqHlnqUHULO7S6ep5on8Whi0-V0i7pfI8jWll3bnC_5V5qUWgnmjd-_gDIHWWW)
 ---
 # 關鍵路徑
 ---
