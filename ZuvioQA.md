@@ -1,7 +1,8 @@
-CShape.java        
-abstract class CShape{
+## CShape.java        
+
+abstract class CShape {
     protected String color;
-    public void setColor(String str){
+    public void setColor(String str) {
         color = str;
     }
  
@@ -9,8 +10,9 @@ abstract class CShape{
 }
 
            
-CTriangle.java
-class CTriangle extends CShape{
+## CTriangle.java
+
+class CTriangle extends CShape {
     double ca, cb, cc;
     public CTriangle(double a, double b, double c){
         ca=a;
@@ -25,11 +27,13 @@ class CTriangle extends CShape{
     }
    
 }
-app11.java
+
+## app11.java
+
 public class app11 {
    public static void main(String[] args) {
     CTriangle ct = new CTriangle(3, 4, 5);
     ct.setColor("red");
     ct.show();
-}
+    }
 }
